@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34917'
     url: http://www.gutenberg.org/2009/agents/34917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30959#George-Eliot-Centenary-November-1919--13-Catalogue-of-Relics-Manuscrips-Prints-Paintings-Phot_
 gutenberg_issued: '2010-01-13'
 gutenberg_type: Text
 identifiers:
